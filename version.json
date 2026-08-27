@@ -1,7 +1,7 @@
 {
-  "version": "3.2.4",
-  "date": "2026-08-26",
-  "download": "https://regina25846-code.github.io/K-alert/kris_trader_alarm_v3.2.4.zip",
+  "version": "3.2.5",
+  "date": "2026-08-27",
+  "download": "https://regina25846-code.github.io/K-alert/kris_trader_alarm_v3.2.5.zip",
   "page": "https://regina25846-code.github.io/K-alert/",
-  "changelog": "가격 알람 팝업 편집폼에 좌표 다시찍기 버튼 추가(업비트 전용), 반복설정 드롭다운 옆에 배치"
+  "changelog": "업데이트 확인 오류 수정"
 }
