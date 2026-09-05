@@ -1,7 +1,7 @@
 {
-  "version": "3.2.5",
-  "date": "2026-08-27",
-  "download": "https://regina25846-code.github.io/K-alert/kris_trader_alarm_v3.2.5.zip",
+  "version": "3.2.6",
+  "date": "2026-09-05",
+  "download": "https://regina25846-code.github.io/K-alert/kris_trader_alarm_v3.2.6.zip",
   "page": "https://regina25846-code.github.io/K-alert/",
-  "changelog": "업데이트 확인 오류 수정"
+  "changelog": "빗썸 화면 지원 마무리"
 }
