@@ -1,7 +1,7 @@
 {
-  "version": "3.2.7",
-  "date": "2026-09-07",
-  "download": "https://regina25846-code.github.io/K-alert/K-Alert_v3.2.7.zip",
+  "version": "3.2.8",
+  "date": "2026-09-27",
+  "download": "https://regina25846-code.github.io/K-alert/K-Alert_v3.2.8.zip",
   "page": "https://regina25846-code.github.io/K-alert/",
-  "changelog": "새로 설치할 때 확장이 안 켜지던 문제 수정"
+  "changelog": "알람 기록에서 코인을 누르면 새로고침 없이 바로 그 코인으로 가요(업비트·빗썸)"
 }
