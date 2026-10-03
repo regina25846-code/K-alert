@@ -1,7 +1,7 @@
 {
-  "version": "3.2.8",
-  "date": "2026-09-27",
-  "download": "https://regina25846-code.github.io/K-alert/K-Alert_v3.2.8.zip",
+  "version": "3.2.9",
+  "date": "2026-10-03",
+  "download": "https://regina25846-code.github.io/K-alert/K-Alert_v3.2.9.zip",
   "page": "https://regina25846-code.github.io/K-alert/",
-  "changelog": "알람 기록에서 코인을 누르면 새로고침 없이 바로 그 코인으로 가요(업비트·빗썸)"
+  "changelog": "시간봉을 바꿔도 추세선이 제자리에 보이게 개선"
 }
